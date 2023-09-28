@@ -111,7 +111,7 @@
 
 <!--profile visit count-->
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=alok1251&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in) 
+[[![](https://visitcount.itsvg.in/api?id=alok1251&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)](https://visitcount.itsvg.in/api?id=alok1251&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in) 
 
   
 </div>
